@@ -13,3 +13,6 @@ You will find the following languages and frameworks in those projects:
 * React
 * Redux
 * Bootstrap
+
+## Future Plans
+I plan on cleaning up the code a bit, as well as fix some small visual things that could be better (padding, etc), but nothing major. I want to be also be able to show my learning and growth through these projects.
